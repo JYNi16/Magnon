@@ -1,2 +1,2 @@
 # Magnons
-Spin wave for various spin model
+Linear spin wave for various spin model
