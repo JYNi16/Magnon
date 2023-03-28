@@ -1,2 +1,2 @@
 # Magnons
-Linear spin wave for various spin model
+Spin wave for various spin model calculated by LSWT
